@@ -1,0 +1,58 @@
+{
+  "expenses": [
+    {
+      "id": "e1",
+      "title": "school fees",
+      "amount": 250,
+      "date": "2025-06-01"
+    },
+    {
+      "id": "e2",
+      "title": "Book",
+      "amount": 260,
+      "date": "2025-06-10"
+    },
+    {
+      "id": "e3",
+      "title": "House Rent",
+      "amount": 270,
+      "date": "2025-06-15"
+    },
+    {
+      "id": "e4",
+      "title": "Food and travel",
+      "amount": 280,
+      "date": "2025-06-20"
+    },
+    {
+      "id": "0.5277412124746689",
+      "title": "Rent",
+      "amount": "270",
+      "date": "2025-06-26T00:00:00.000Z"
+    },
+    {
+      "id": "0.8694168757041404",
+      "title": "collage",
+      "amount": "400",
+      "date": "2025-06-27T00:00:00.000Z"
+    },
+    {
+      "id": "0.047448825758911406",
+      "title": "Internet",
+      "amount": "230",
+      "date": "2025-06-27T00:00:00.000Z"
+    },
+    {
+      "id": "0.8489925409104201",
+      "title": "Entertaiment Fees",
+      "amount": "230",
+      "date": "2025-06-27T00:00:00.000Z"
+    },
+    {
+      "id": "0.49976744576141274",
+      "title": "ZeeNews",
+      "amount": "2300",
+      "date": "2025-06-28T00:00:00.000Z"
+    }
+  ]
+}
